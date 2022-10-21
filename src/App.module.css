@@ -5,7 +5,6 @@
     color: blue;
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #264fd4, 0 0 40px #264fd4,
       0 0 50px #264fd4, 0 0 60px #264fd4, 0 0 70px #264fd4;
-
 }
 
 @media (max-width:540px) {

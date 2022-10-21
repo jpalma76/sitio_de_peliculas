@@ -1,13 +1,12 @@
 import styles from './CardPelicula.module.css';
 
 export function CardPelicula({movie}) {
-
     return (
     <li className={styles.movieCard}>
         <a href={movie.url}>
         <img src={movie.imagen} alt={movie.title}
-        width={190} 
-        height={260} 
+        width={230} 
+        height={315} 
         className={styles.movieImage} />
         <div>{movie.title}</div>
         </a>
