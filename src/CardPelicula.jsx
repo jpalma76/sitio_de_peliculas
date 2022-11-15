@@ -6,7 +6,7 @@ export function CardPelicula({movie}) {
         <a href={movie.url}>
         <img src={movie.imagen} alt={movie.title}
         width={230} 
-        height={315} 
+        height={330} 
         className={styles.movieImage} />
         <div>{movie.title}</div>
         </a>
