@@ -388,7 +388,7 @@
     "id": "56",
     "title": "Wonder Woman 1984",
     "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#600bcf351cd31b4229c07a47",
-    "imagen": "https://s3.amazonaws.com/biciqproduction/events/covers/000/009/620/original/WONDER_WOMAN.jpg?1609179107"
+    "imagen": "https://static.esplay.io/movie/cover/original/2d28f41db03b6ef2d428da36123f74f6.webp"
   },
 
   {
@@ -466,5 +466,90 @@
     "title": "Duro de Matar 2",
     "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5faf933d6dc51d7b5d89b8bb",
     "imagen": "https://static.esplay.io/movie/cover/original/4061ec0878b11a935eab28508c18965c.webp"
+  },
+
+  {
+    "id": "68",
+    "title": "Jurassic World Dominion",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#629cb2ed08bf06cf5a12eafb",
+    "imagen": "https://static.esplay.io/movie/cover/original/sXeWfpT1EhG7f4uBouqraOhmouH.webp"
+  },
+
+  {
+    "id": "69",
+    "title": "Aves de Presa",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#605c862a50ede53c44c1afcd",
+    "imagen": "https://static.esplay.io/movie/cover/original/967ec9ed12077d86b76eea7ceaf90a82.webp"
+  },
+
+  {
+    "id": "70",
+    "title": "Busqueda Implacable",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad03346dc51d7b5d87923d",
+    "imagen": "https://static.esplay.io/movie/cover/original/9da54ce5033a312222172aebd85b3b10.webp"
+  },
+
+  {
+    "id": "71",
+    "title": "Búsqueda Implacable 2: Conexión Estambul",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fadd1936dc51d7b5d88262c",
+    "imagen": "https://static.esplay.io/movie/cover/original/78336ae2cdee3ce20aad5ff3b652a587.webp"
+  },
+
+  {
+    "id": "72",
+    "title": "Búsqueda Implacable 3",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad0ca56dc51d7b5d8793d4",
+    "imagen": "https://static.esplay.io/movie/cover/original/a769f2a6b21003a50613e32663599ab7.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "73",
+    "title": "Armageddon",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fae59736dc51d7b5d88a237",
+    "imagen": "https://static.esplay.io/movie/cover/original/48c41e86c2241d3ffb539a241c1118eb.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "74",
+    "title": "Piratas del Caribe 1: La Maldición del Perla Negra",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad8fa86dc51d7b5d87da69",
+    "imagen": "https://static.esplay.io/movie/cover/original/ee9a7105e37be7f224b20d9ea7d6ada0.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "75",
+    "title": "Piratas del Caribe 2: El Cofre de la Muerte",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad99096dc51d7b5d87e49a",
+    "imagen": "https://static.esplay.io/movie/cover/original/1b4067bd67bb4bc8be1c4931434c214e.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "76",
+    "title": "Piratas del Caribe 3: En el Fin del Mundo",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fad78406dc51d7b5d87c420",
+    "imagen": "https://static.esplay.io/movie/cover/original/008717b7e44bcba001a821c3624738d8.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "77",
+    "title": "Piratas del Caribe 4: Navegando Aguas Misteriosas",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5fadb5286dc51d7b5d880473",
+    "imagen": "https://static.esplay.io/movie/cover/original/d81d4619ee980955306c075283e4c247.webp",
+    "classification": "accion"
+  },
+
+  {
+    "id": "78",
+    "title": "Armageddon",
+    "url": "https://pelisplus.esplay.io/player.html?ref=pelisplus2#5facd8c16dc51d7b5d8784c9",
+    "imagen": "https://static.esplay.io/movie/cover/original/48ed7ac91e804c901358499e47fa8ef7.webp",
+    "classification": "accion"
   }
+  
 ]
