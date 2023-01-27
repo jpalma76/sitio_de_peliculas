@@ -1,0 +1,15 @@
+.moviesGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,230px);
+    gap: 30px;
+    padding: 30px;
+    justify-content: center;
+}
+
+@media (max-width: 540px) {
+    .moviesGrid {
+        grid-template-columns: 95%;
+        height: auto;
+        padding: 10px;
+    }
+}
